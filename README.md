@@ -1,4 +1,6 @@
-\# Storage Estimator -Main version
+<<<<<<< HEAD
+# Storage Estimator 
+>>>>>>> feature/title-change
 
 
 
